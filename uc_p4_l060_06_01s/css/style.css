@@ -1,0 +1,198 @@
+
+#xuan_2{
+    cursor: pointer;
+}
+#xuan_1 {
+    cursor: pointer;
+}	
+#gou_2 {
+    cursor: pointer;
+}
+#gou_1 {
+    cursor: pointer;
+}	
+#b2 {
+    cursor: pointer;
+}
+#b1 {
+    cursor: pointer;
+}		
+#playBtn {
+    cursor: pointer;
+}
+#resetBtn {
+    cursor: pointer;
+}
+/** {
+	box-sizing: border-box;
+}*/
+html,
+body {
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+}
+#container {
+	position: absolute;
+	width: 430px;
+	height: 380px;
+	margin-left: auto;
+	//margin-right: auto;
+	overflow: hidden;
+	z-index: 0;
+
+}
+
+#n_0 {
+	position: absolute;
+	width: 124px;
+	height: 124px;
+	top: 115.5px;
+	left: 149px;
+	overflow: hidden;
+	z-index: 4;
+}
+#n0_2 {
+	position: absolute;
+	width: 127px;
+	height: 124px;
+	top: 115.5px;
+	left: 148px;
+	overflow: hidden;
+	z-index: 4;
+}
+#n1_1 {
+	position: absolute;
+	width: 125px;
+	height: 151px;
+	top: 101.5px;
+	left: 148px;
+	overflow: hidden;
+	z-index: 4;
+}
+#n1_3 {
+	position: absolute;
+	width: 127px;
+	height: 151px;
+	top: 101.5px;
+	left: 148px;
+	overflow: hidden;
+	z-index: 4;
+}
+#n2_1 {
+	position: absolute;
+	width: 125px;
+	height: 191px;
+	top: 82.5px;
+	left: 148px;
+	overflow: hidden;
+	z-index: 4;
+}
+#n2_3 {
+	position: absolute;
+	width: 127px;
+	height: 191px;
+	top: 82.5px;
+	left: 148px;
+	overflow: hidden;
+	z-index: 4;
+}
+#n3_1 {
+	position: absolute;
+	width: 125px;
+	height: 231px;
+	top: 62.5px;
+	left: 148px;
+	overflow: hidden;
+	z-index: 4;
+}
+#n3_3 {
+	position: absolute;
+	width: 127px;
+	height: 231px;
+	top: 62.5px;
+	left: 148px;
+	overflow: hidden;
+	z-index: 4;
+}
+#s_0 {
+	position: absolute;
+	width: 124px;
+	height: 124px;
+	top: 115.5px;
+	left: 149px;
+	overflow: hidden;
+	z-index: 4;
+}
+#s0_2 {
+	position: absolute;
+	width: 128px;
+	height: 124px;
+	top: 115.5px;
+	left: 148px;
+	overflow: hidden;
+	z-index: 4;
+}
+#s1_1 {
+	position: absolute;
+	width: 126px;
+	height: 154px;
+	top: 100.5px;
+	left: 148px;
+	overflow: hidden;
+	z-index: 4;
+}
+#s1_3 {
+	position: absolute;
+	width: 128px;
+	height: 154px;
+	top: 100.5px;
+	left: 148px;
+	overflow: hidden;
+	z-index: 4;
+}
+#s2_1 {
+	position: absolute;
+	width: 126px;
+	height: 194px;
+	top: 80.5px;
+	left: 148px;
+	overflow: hidden;
+	z-index: 4;
+}
+#s2_3 {
+	position: absolute;
+	width: 128px;
+	height: 194px;
+	top: 80.5px;
+	left: 148px;
+	overflow: hidden;
+	z-index: 4;
+}
+#s3_1 {
+	position: absolute;
+	width: 126px;
+	height: 234px;
+	top: 60.5px;
+	left: 148px;
+	overflow: hidden;
+	z-index: 4;
+}
+#s3_3 {
+	position: absolute;
+	width: 128px;
+	height: 234px;
+	top: 60.5px;
+	left: 148px;
+	overflow: hidden;
+	z-index: 4;
+}
+#r_b {
+	position: absolute;
+	width: 444px;
+	height: 179px;
+	top: 166px;
+	left: -13.35px;
+	overflow: hidden;
+	z-index: 5;
+}
